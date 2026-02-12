@@ -314,19 +314,12 @@ This project showcases the following competencies valued by employers:
 
 **Author**: Richard Rivera Cartagena
 [LinkedIn](https://www.linkedin.com/in/richard-rivera-cartagena/) · [GitHub](https://github.com/RichRC)
-
 **Role**: Data Analyst  
 **Project Type**: Portfolio / Case Study  
 **Date**: October 2025  
 
 This project was created to demonstrate data analysis capabilities in a business context. While Fresh Beats is a fictional company, the analytical approach, methodologies, and recommendation framework reflect real-world best practices used in the music streaming and SaaS industries.
 
----
-
-## 📞 Contact & Links
-
-- **LinkedIn** [(https://www.linkedin.com/in/richard-rivera-cartagena/)]
-- **GitHub**: [(https://github.com/RichRC)]
 ---
 
 ## 📄 License
