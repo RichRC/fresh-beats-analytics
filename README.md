@@ -312,7 +312,9 @@ This project showcases the following competencies valued by employers:
 
 ## 👤 About This Project
 
-**Author**: Richard Rivera Cartagena  
+Richard Rivera Cartagena
+[LinkedIn](https://www.linkedin.com/in/richard-rivera-cartagena/) · [GitHub](https://github.com/RichRC)
+
 **Role**: Data Analyst  
 **Project Type**: Portfolio / Case Study  
 **Date**: October 2025  
