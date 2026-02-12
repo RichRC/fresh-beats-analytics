@@ -51,13 +51,13 @@ Translated analytical findings into actionable business recommendations with exp
 
 ## 📈 Key Findings & Insights
 
-![Average Number of Users by Genre Over Time](./images/average_number_of_users_by_genre_over_time.png)
+![Average Number of Users by Genre Over Time](./average_number_of_users_by_genre_over_time.png)
 
 ### Finding 1: Paid Users Show 70% Higher Engagement
 
 **Analysis**: Paid subscribers listened to 102,600 tracks over the period versus 60,600 for free users—a 69% difference despite similar user base sizes.
 
-![Tracks Listened by User Tier Over Time](./images/tracks_listened_by_user_tier_over_time.png)
+![Tracks Listened by User Tier Over Time](./tracks_listened_by_user_tier_over_time.png)
 
 **Business Implication**: The value proposition of paid subscriptions is strong. This engagement gap presents an opportunity to demonstrate value to free users through targeted marketing and trial offers.
 
@@ -70,7 +70,7 @@ Translated analytical findings into actionable business recommendations with exp
 
 ### Finding 2: Genre Performance Reveals Strategic Opportunities
 
-![Listens by Genre and User Tier Over Time](./images/listens_by_genre_and_user_tier_over_time.png)
+![Listens by Genre and User Tier Over Time](./listens_by_genre_and_user_tier_over_time.png)
 
 #### High-Growth Genres (Electronic & Hip-Hop)
 - **Electronic**: Grew from 37.5 to 62.5 average users (+67%)
